@@ -29,6 +29,9 @@
     <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
         <div class="container" id="HOME">
           <h3><a style="color: black" class="navbar-brand" href="index.html">AUTHENTICSTORE</a></h3>
+          <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
+        <div class="container" id="HOME">
+          <h3><a style="color: black" class="navbar-brand" href="index.html">AUTHENTICSTORE</a></h3>
   </head>
 
 </head>
